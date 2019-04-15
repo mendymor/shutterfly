@@ -1,0 +1,18 @@
+.day {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 18%;
+    background-color: #fff0d6;
+    border-radius: 16px;
+}
+.title {
+    display: flex;
+    min-height: 24px;
+    font-weight: bold;
+    font-size: 18px;
+    border-bottom: solid 1px;
+    padding-bottom: 8px;
+    margin: 36px;
+    align-self: center;
+}
