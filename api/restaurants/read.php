@@ -12,7 +12,7 @@ $pizza = array(
 );
 
 $falafel = array(
-    "name" => "monday",
+    "name" => "Falafel",
     "count" => 0
 );
 
